@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(('echo $PAH | grep -0 ":/" | wc -l' + 1))
+"'echo  | grep -0 :/ | wc -l' + 1"
